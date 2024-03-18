@@ -23,7 +23,8 @@
 
 <h3 align="center">📚 Studying 📚</h3>
 <div aling="center">
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/>&nbsp
 </div>
 <br>
 <div align="center">
